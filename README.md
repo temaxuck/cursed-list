@@ -27,6 +27,17 @@ Just as an example, we can find that there's some character bunny that turns out
 </details>
 </li>
 
+
+<li>
+<details>
+<summary><b>standardgalactic</b></summary>
+https://github.com/standardgalactic
+
+### Description
+This must be the most productive and mysterious user on GitHub. They have 20k+ repositories, conduct tens of researches per month, speak some kind of a galactic language (which reminds me of arabic), and generate a literally tons of content.
+</details>
+</li>
+
 </ul>
 
 ## Suggestions
