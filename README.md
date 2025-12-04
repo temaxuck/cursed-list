@@ -38,6 +38,17 @@ This must be the most productive and mysterious user on GitHub. They have 20k+ r
 </details>
 </li>
 
+
+<li>
+<details>
+<summary><b>cirosantilli</b></summary>
+https://github.com/cirosantilli
+
+### Description
+One of the most opinionated person on github
+</details>
+</li>
+
 </ul>
 
 ## Suggestions
